@@ -21,3 +21,10 @@ This app shall be able to:
     4. Collect money from user
             The device shall request and collect money through dedicated addons in order to proceeed with the printing.
     5. Print/Send to the selected printer processed files.
+
+The machine shall be accesible through a web user interface.
+
+Team Members:
+    - Ciobanasu Gabriel
+    - Mihaluca Sergiu
+    - Puscalau Robert
