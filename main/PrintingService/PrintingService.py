@@ -1,3 +1,3 @@
 class PrintingService:
-    def PrintingService(self):
+    def __init__(self):
         print("PrintingService Constructor")
